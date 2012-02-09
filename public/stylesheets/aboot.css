@@ -1,0 +1,35 @@
+body {
+  background-color: #99CCFF;
+  font-family: sans-serif;
+}
+h1 {
+  font-size: 3em;
+  font-style: italic;
+  font-weight: bolder;
+  color: darkorange;
+  border-bottom: 2px solid #2A1959;
+}
+img {
+  padding: 30px;
+}
+h2 {
+  color: #474B94;
+  font-size: 1.2em;
+}
+h2, p {
+  margin-left: 100px;
+}
+ul {
+  margin-left: 100px;
+}
+h3 {
+  font-size: 1em;
+  font-style: italic;
+  color: green;
+}
+h4 {
+  border-top: 2px solid #2A1959;
+  font-size: 0.8em;
+  font-style: italic;
+  font-weight: normal;
+}
